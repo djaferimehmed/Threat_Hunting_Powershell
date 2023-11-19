@@ -1,5 +1,3 @@
-#Just a Comment to test
-
 #Get-Member
 Get-ADUser -Filter * -Properties * | Get-Member -MemberType property
 
